@@ -1,0 +1,16 @@
+﻿body {
+        text-align:center;
+        width:100%;
+        font-family: Verdana;
+}
+div{
+    margin-top:20px;
+}
+
+.calendar{
+    margin: 20px auto;
+}
+.results{
+    color:#CC3333;
+    font-weight:bold;
+}
